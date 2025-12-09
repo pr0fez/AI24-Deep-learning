@@ -1,3 +1,4 @@
 Lectures/datasets
 .venv
 local
+*.pth
