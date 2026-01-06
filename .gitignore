@@ -2,3 +2,5 @@ Lectures/datasets
 .venv
 local
 *.pth
+Resources/keras
+*.zip
